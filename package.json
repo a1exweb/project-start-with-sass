@@ -33,10 +33,15 @@
     "gulp-uglify-es": "^2.0.0",
     "gulp-webp": "^4.0.1",
     "gulp-webp-html": "^1.0.2",
-    "gulp-webpcss": "^1.1.1"
+    "gulp-webpcss": "^1.1.1",
+    "webp-converter": "^2.2.3"
   },
   "dependencies": {
     "jquery": "^3.5.1",
-    "normalize.css": "^8.0.1"
+    "minimist": "^1.2.5",
+    "normalize.css": "^8.0.1",
+    "postcss": "^8.2.15",
+    "xmldom": "^0.6.0",
+    "yargs-parser": "^20.2.7"
   }
 }
