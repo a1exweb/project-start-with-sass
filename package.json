@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "jquery": "^3.5.1",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "normalize.css": "^8.0.1",
     "postcss": "^8.2.15",
     "xmldom": "^0.6.0",
